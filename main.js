@@ -1,0 +1,1 @@
+document.querySelector('image').scr = 'photos/icon_color.png'
